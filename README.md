@@ -9,3 +9,4 @@
 + git log --oneline '一行显示'
 + git reflog -->'显示所有版本信息'
 ## 2.1 远程仓库介绍
+![撒大声]('./ia__tupian100000012.jpg')
